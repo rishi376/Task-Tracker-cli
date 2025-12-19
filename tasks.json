@@ -1,0 +1,23 @@
+[
+{
+"id": 1,
+"description": "this is the first node",
+"createdAt": "2025-12-18T13:03:17.286753600",
+"updatedOn": "2025-12-19T14:07:43.071149900",
+"status": "done"
+},
+{
+"id": 2,
+"description": "This is the second todo",
+"createdAt": "2025-12-18T13:03:17.286753600",
+"updatedOn": "2025-12-18T13:03:17.287753900",
+"status": "in-progress"
+},
+{
+"id": 4,
+"description": "This is updated",
+"createdAt": "2025-12-19T14:09:08.813606500",
+"updatedOn": "2025-12-19T14:13:12.802364",
+"status": "in-progress"
+}
+]
